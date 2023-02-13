@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "oneplus",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 445,
+      "comment": "ddfa",
+      "date": "2023-02-01T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "realme",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 5454,
+      "comment": "ytyty",
+      "date": "2023-02-04T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "good",
+      "date": "2023-02-22T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "motorola",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 7575,
+      "comment": "ytyty",
+      "date": "2023-01-31T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "moto",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 7575,
+      "comment": "ytyty",
+      "date": "2023-01-31T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "moto",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 7575,
+      "comment": "ytyty",
+      "date": "2023-01-31T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "nokia",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 7575,
+      "comment": "ytyty",
+      "date": "2023-02-04T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
